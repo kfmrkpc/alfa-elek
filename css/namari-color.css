@@ -38,11 +38,11 @@ a:hover, #header.nav-solid nav a:hover {
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #144274;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#144274;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #144274;
+    border-color: #144274;
 }    
 
 
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#144274;
     content:"";
     display:block;
     width:30px;
@@ -279,8 +279,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#d2b356;
-    color:#d2b356;
+    border-color:#144274;
+    color:#144274;
 }
 
 
@@ -306,8 +306,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#d2b356;
-    border-color:#d2b356;
+    color:#144274;
+    border-color:#144274;
 }
 
 
