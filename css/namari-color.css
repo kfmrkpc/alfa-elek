@@ -22,17 +22,17 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#144274;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#144274;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#144274;
 }
 
 /* Border Color */
